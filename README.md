@@ -160,7 +160,7 @@ Add screenshots of your running application to an `assets/` folder in the root d
 4. **Summary & Export (`assets/summary_export.png`):**
    * Five executive KPI metric cards, stage breakdown table, and one-click CSV download button.
 
-```markdown
+
 
 ![Login Screen](assets/login_screen.png)
 
@@ -170,7 +170,7 @@ Add screenshots of your running application to an `assets/` folder in the root d
 
 ![Summary & Export](assets/summary_export.png)
 
-```
+
 
 ## 📏 Validation & Business Rules
 
