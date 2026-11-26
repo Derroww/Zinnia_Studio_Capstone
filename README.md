@@ -45,6 +45,7 @@ zinnia-studio-tracker/
 ├── assets/              # Optional screenshots for documentation
 │   ├── login_screen.png
 │   ├── projects_dashboard.png
+|   ├── create_update.png
 │   └── summary_export.png
 ├── main.py              # Streamlit UI, session management, tabs, forms, and KPIs
 ├── database.py          # SQLite connection, schema creation, parameterized CRUD & user queries
@@ -68,8 +69,8 @@ zinnia-studio-tracker/
 1. **Clone the repository:**
 
    ```bash
-   git clone <your-repository-url>
-   cd zinnia-studio-tracker
+   git clone https://github.com/Derroww/Zinnia_Studio_Capstone.git
+   cd Zinnia_Studio_Capstone
    ```
 
 2. **Create and activate a virtual environment:**
@@ -161,9 +162,13 @@ Add screenshots of your running application to an `assets/` folder in the root d
 
 ```markdown
 
-![Login Screen](assets/login_screen.png)
-![Projects Dashboard](assets/projects_dashboard.png)
-![Summary & Export](assets/summary_export.png)
+(assets/login_screen.png)
+
+(assets/projects_dashboard.png)
+
+(assets/create_update.png)
+
+(assets/summary_export.png)
 
 ```
 
@@ -257,3 +262,11 @@ __pycache__/
 
 * **Never commit `.env`** or live `.db` files containing client data and credentials.
 * Always use parameterized SQL queries (`?` placeholders) as implemented in `database.py` to prevent SQL injection.
+
+## Author
+
+Derrick Sum
+
+## License
+
+This project was created and built under MIT license.
