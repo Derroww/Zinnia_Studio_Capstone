@@ -162,13 +162,13 @@ Add screenshots of your running application to an `assets/` folder in the root d
 
 ```markdown
 
-(assets/login_screen.png)
+![Login Screen](assets/login_screen.png)
 
-(assets/projects_dashboard.png)
+![Projects Dashboard](assets/projects_dashboard.png)
 
-(assets/create_update.png)
+![Create & Update](assets/create_update.png)
 
-(assets/summary_export.png)
+![Summary & Export](assets/summary_export.png)
 
 ```
 
